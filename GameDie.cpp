@@ -10,7 +10,7 @@ GameDie::GameDie()
 }
 
 //return a random number between 1-6 (inclusive)
-int GameDie::roll()
+int GameDie::roll(int n)
 {
-  return (rand()%6)+1;
+  return (rand()%n)+1;
 }
