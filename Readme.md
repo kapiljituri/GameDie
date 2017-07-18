@@ -5,4 +5,6 @@
 
 # Source
 
-* [GameDie] (https://github.com/ChicoState/GameDie)
+* [GameDie][1]
+
+[1]: https://github.com/ChicoState/GameDie
